@@ -26,6 +26,7 @@ which you can select in the tesseract installation process.
 Python and the latter to be able to directly use image files within the programming language. The installation commands are as follows:
 
 pip install pytesseract
+
 pip install Pillow
 
 Remember to run the pip install pytesseract command only until the installation of the Tesseract software is complete. 
